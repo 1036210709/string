@@ -22,3 +22,4 @@ Mystring & Mystring:: operator += (const Mystring & x)
     return *this;
 }
 做了一个修改
+分支二
