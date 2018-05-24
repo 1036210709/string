@@ -21,3 +21,4 @@ Mystring & Mystring:: operator += (const Mystring & x)
     delete [] src;
     return *this;
 }
+做了一个修改
